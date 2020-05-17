@@ -4,3 +4,5 @@ puts "this is the new feature"
 end
 
 new_feature
+
+new_feature
